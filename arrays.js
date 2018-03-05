@@ -6,4 +6,3 @@ function addElementToBeginningOfArray() {
 function destructivelyAddElementToBeginningOfArray() {
 
 }
-]
