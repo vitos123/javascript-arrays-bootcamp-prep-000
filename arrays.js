@@ -4,5 +4,11 @@ function addElementToBeginningOfArray() {
 
 }
 function destructivelyAddElementToBeginningOfArray() {
-  
+
+}
+function destructivelyAddElementToBeginningOfArray() {
+
+}
+function addElementToBeginningOfArray() {
+
 }
